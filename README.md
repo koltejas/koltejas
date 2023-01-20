@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @koltejas
-- 👀 I’m interested in learning to code good software
-- 🌱 I’m currently learning javascript
 - 📫 You can mail me here: tejask55@outlook.com
